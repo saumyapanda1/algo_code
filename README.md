@@ -19,12 +19,14 @@ New Algo Questions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/saumyapanda1/algo_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saumyapanda1/algo_code/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumyapanda1/algo_code/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/saumyapanda1/algo_code/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -38,4 +40,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saumyapanda1/algo_code/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
