@@ -44,6 +44,7 @@ New Algo Questions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
+| [0908-middle-of-the-linked-list](https://github.com/saumyapanda1/algo_code/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -56,4 +57,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/saumyapanda1/algo_code/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
