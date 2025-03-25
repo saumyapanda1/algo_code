@@ -9,7 +9,7 @@ public:
         
     }
 
-    void ps(vector<vector<int>>&v, int pos, vector<int>  nums)
+    void ps(vector<vector<int>>&v, int pos, vector<int>  &nums)
     {
         if(pos >= nums.size())
         {
