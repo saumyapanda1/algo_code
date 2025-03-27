@@ -30,6 +30,7 @@ New Algo Questions.
 | [0053-maximum-subarray](https://github.com/saumyapanda1/algo_code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/saumyapanda1/algo_code/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/saumyapanda1/algo_code/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +81,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/saumyapanda1/algo_code/tree/master/0046-permutations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/saumyapanda1/algo_code/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
