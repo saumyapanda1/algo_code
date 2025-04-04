@@ -56,16 +56,19 @@ New Algo Questions.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saumyapanda1/algo_code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saumyapanda1/algo_code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saumyapanda1/algo_code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
@@ -97,4 +100,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/saumyapanda1/algo_code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
