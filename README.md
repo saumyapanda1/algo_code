@@ -57,14 +57,17 @@ New Algo Questions.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saumyapanda1/algo_code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
 |  |
 | ------- |
@@ -90,4 +93,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/saumyapanda1/algo_code/tree/master/0724-find-pivot-index) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/saumyapanda1/algo_code/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
