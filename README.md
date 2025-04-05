@@ -17,6 +17,7 @@ New Algo Questions.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saumyapanda1/algo_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saumyapanda1/algo_code/tree/master/0242-valid-anagram) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saumyapanda1/algo_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +105,8 @@ New Algo Questions.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saumyapanda1/algo_code/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saumyapanda1/algo_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
