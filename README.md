@@ -35,6 +35,7 @@ New Algo Questions.
 | [0088-merge-sorted-array](https://github.com/saumyapanda1/algo_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/saumyapanda1/algo_code/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/saumyapanda1/algo_code/tree/master/0724-find-pivot-index) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/saumyapanda1/algo_code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Math
 |  |
 | ------- |
